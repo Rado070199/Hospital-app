@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User xsi:type="Admin">
+    <id>12985</id>
+    <name>Jan</name>
+    <surname>Węgielski</surname>
+    <pesel>12345678912</pesel>
+    <username>j_wegielski</username>
+    <password>Jan123</password>
+    <right>HIGH</right>
+  </User>
+  <User xsi:type="Admin">
+    <id>23124</id>
+    <name>Marek</name>
+    <surname>Ratajczak</surname>
+    <pesel>9134583612</pesel>
+    <username>m_ratajczak</username>
+    <password>Marek123</password>
+    <right>HIGH</right>
+  </User>
+  <User xsi:type="Admin">
+    <id>34812</id>
+    <name>Tomasz</name>
+    <surname>Kościuszko</surname>
+    <pesel>648541352465</pesel>
+    <username>t_kosciuszko</username>
+    <password>Tomasz123</password>
+    <right>HIGH</right>
+  </User>
+  <User xsi:type="Nurse">
+    <id>45742</id>
+    <name>Aleksandra</name>
+    <surname>Żarnecka</surname>
+    <pesel>12345678912</pesel>
+    <username>a_zarnecka</username>
+    <password>Aleksandra123</password>
+    <right>LOW</right>
+  </User>
+  <User xsi:type="Nurse">
+    <id>56923</id>
+    <name>Magdalena</name>
+    <surname>Korańska</surname>
+    <pesel>16546894354</pesel>
+    <username>m_koranska</username>
+    <password>Magdalena123</password>
+    <right>LOW</right>
+  </User>
+  <User xsi:type="Nurse">
+    <id>67712</id>
+    <name>Kinga</name>
+    <surname>Zapracowana</surname>
+    <pesel>45632178953</pesel>
+    <username>k_zapracowana</username>
+    <password>Kinga123</password>
+    <right>LOW</right>
+  </User>
+  <User xsi:type="Nurse">
+    <id>78335</id>
+    <name>Monika</name>
+    <surname>Najszybsza</surname>
+    <pesel>65846351684</pesel>
+    <username>m_najszybsza</username>
+    <password>Monika123</password>
+    <right>LOW</right>
+  </User>
+  <User xsi:type="Doctor">
+    <id>89741</id>
+    <name>Stefan</name>
+    <surname>Golonka</surname>
+    <pesel>12345678912</pesel>
+    <username>s_golonka</username>
+    <password>Stefan123</password>
+    <right>LOW</right>
+    <speciality>KARDIOLOG</speciality>
+    <PWZnumber>985431</PWZnumber>
+  </User>
+  <User xsi:type="Doctor">
+    <id>90123</id>
+    <name>Angelika</name>
+    <surname>Szczęsna</surname>
+    <pesel>98007154213</pesel>
+    <username>a_szczesna</username>
+    <password>Angelika123</password>
+    <right>LOW</right>
+    <speciality>NEUROLOG</speciality>
+    <PWZnumber>643248</PWZnumber>
+  </User>
+  <User xsi:type="Doctor">
+    <id>17554</id>
+    <name>Janina</name>
+    <surname>Boczkowska</surname>
+    <pesel>91234564213</pesel>
+    <username>j_boczkowska</username>
+    <password>Janina123</password>
+    <right>LOW</right>
+    <speciality>UROLOG</speciality>
+    <PWZnumber>123455</PWZnumber>
+  </User>
+  <User xsi:type="Doctor">
+    <id>42132</id>
+    <name>Zbigniew</name>
+    <surname>Andrut</surname>
+    <pesel>91827374654</pesel>
+    <username>z_andrut</username>
+    <password>Zbigniew123</password>
+    <right>LOW</right>
+    <speciality>LARYNGOLOG</speciality>
+    <PWZnumber>123456</PWZnumber>
+  </User>
+  <User xsi:type="Doctor">
+    <id>35423</id>
+    <name>Marek</name>
+    <surname>Paczynski</surname>
+    <pesel>6854354168</pesel>
+    <username>m_paczynski</username>
+    <password>1234</password>
+    <right>LOW</right>
+    <speciality>UROLOG</speciality>
+    <PWZnumber>12843</PWZnumber>
+  </User>
+</ArrayOfUser>
